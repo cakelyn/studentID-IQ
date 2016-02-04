@@ -1,0 +1,18 @@
+List of Student IDs and IQ Scores
+Student ID		IQ Score
+
+
+Sorted by ID in Ascending Order
+Student ID		IQ Score
+
+
+Sorted by IQ score in Descending Order
+Student ID		IQ Score
+
+
+The average IQ score is nan
+The highest IQ score is 192897128
+The lowest IQ score is 0
+
+The median IQ score is 96448564
+The mode IQ score is 192897128

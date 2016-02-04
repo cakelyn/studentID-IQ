@@ -1,0 +1,47 @@
+List of Student IDs and IQ Scores
+Student ID		IQ Score
+   328			   90
+   764			   125
+   957			   85
+   515			   230
+   920			   110
+   833			   70
+   246			   165
+   742			   235
+   836			   70
+
+
+Sorted by ID in Ascending Order
+Student ID		IQ Score
+   246			   165
+   328			   90
+   515			   230
+   742			   235
+   764			   125
+   833			   70
+   836			   70
+   920			   110
+   957			   85
+
+
+Sorted by IQ score in Descending Order
+Student ID		IQ Score
+   742			   235
+   515			   230
+   246			   165
+   764			   125
+   920			   110
+   328			   90
+   957			   85
+   833			   70
+   836			   70
+
+
+The average IQ score is 131.111
+The highest IQ score is 235
+The lowest IQ score is 70
+
+85 found in ID number 957
+115 not found
+The median IQ score is 110
+The mode IQ score is 70

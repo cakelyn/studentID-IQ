@@ -1,0 +1,50 @@
+List of Student IDs and IQ Scores
+Student ID		IQ Score
+   720			   90
+   895			   215
+   881			   230
+   484			   140
+   645			   60
+   271			   130
+   629			   90
+   455			   170
+   668			   100
+   110			   180
+
+
+Sorted by ID in Ascending Order
+Student ID		IQ Score
+   110			   180
+   271			   130
+   455			   170
+   484			   140
+   629			   90
+   645			   60
+   668			   100
+   720			   90
+   881			   230
+   895			   215
+
+
+Sorted by IQ score in Descending Order
+Student ID		IQ Score
+   881			   230
+   895			   215
+   110			   180
+   455			   170
+   484			   140
+   271			   130
+   668			   100
+   629			   90
+   720			   90
+   645			   60
+
+
+The average IQ score is 140.5
+The highest IQ score is 230
+The lowest IQ score is 60
+
+70 not found
+100 found in ID number 668
+The median IQ score is 135
+The mode IQ score is 90
